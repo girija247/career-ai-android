@@ -1,0 +1,6 @@
+{
+  "name": "CareerAI",
+  "description": "Production-ready AI Career & Job Recommendation Platform with resume parsing, semantic matching, skill gap analysis, application tracking, and AI career assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
