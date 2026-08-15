@@ -1,11 +1,8 @@
 # CareerAI - Intelligent Job & Career Advisory Android App
 
-[![Live App Demo](https://img.shields.io/badge/Live_App_Demo-Open_In_Browser-8A2BE2?style=for-the-badge&logo=android)](https://ais-pre-awzuo7of5nakyurayf474h-858216014342.asia-east1.run.app)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-
-> **📱 Live Web Preview**: Anyone can test and run this Android app immediately in their web browser without installing anything:  
-> 🔗 **[Click here to open CareerAI Web Demo](https://ais-pre-awzuo7of5nakyurayf474h-858216014342.asia-east1.run.app)**
+[![Platform](https://img.shields.io/badge/Platform-Android_API_24+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 
 ---
 
